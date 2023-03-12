@@ -14,7 +14,9 @@
 ### 무선송출기 기존제품
 
 ```
-- https://www.youtube.com/watch?v=BWyhB6xia4c
+- 최신 듀얼 https://www.youtube.com/watch?v=BWyhB6xia4c
+- 기존 https://www.youtube.com/watch?v=C8UH9JXW-RM
+
 
 
 ```
