@@ -102,3 +102,17 @@ https://xcopter.com/product/%ED%95%B4%EC%99%B8%EA%B5%AC%EB%A7%A4%EB%8C%80%ED%96%
 - RadioMaster Ranger ExpressLRS module - the best module yet!! Supplied by RadioMaster
 - https://www.youtube.com/watch?v=fhw0-WWBFT8
 
+
+
+
+### 영상 송수신기 이해
+
+- (핵심기본)
+- https://www.youtube.com/watch?v=PwUTzymoWO8
+- https://www.youtube.com/watch?v=bCmWm-EluqQ
+- https://www.youtube.com/watch?v=mp_tNOOM4os
+
+
+
+
+
