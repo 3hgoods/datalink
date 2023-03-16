@@ -64,6 +64,10 @@ https://xcopter.com/product/%ED%95%B4%EC%99%B8%EA%B5%AC%EB%A7%A4%EB%8C%80%ED%96%
 - https://www.youtube.com/watch?v=nuHWI06pygc
 - https://www.youtube.com/watch?v=jtzQsBKvIyE
 
+- FPV 입문
+- https://www.youtube.com/watch?v=WCiYqeR3v4k
+
+
 
 ### 대항마 Intro to Express LRS • For ELRS 
 
