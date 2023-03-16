@@ -79,6 +79,9 @@ https://xcopter.com/product/%ED%95%B4%EC%99%B8%EA%B5%AC%EB%A7%A4%EB%8C%80%ED%96%
 - Radiomaster TX16S (with Crossfire Module) - http://tiny.cc/3zzvtz
 - TBS Tango 2 - https://tinyurl.com/ybz5yzzp
 
+- 홈페이지
+- https://www.expresslrs.org/quick-start/firmware-options/
+
 
 
 
