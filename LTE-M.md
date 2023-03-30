@@ -2,6 +2,17 @@
 - http://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=172041-2
 
 
+### 안전사고에 활용
+
+- https://www.youtube.com/watch?v=G_H9BvmPzvc
+
+
+### 해양기술드론 회사의 KT UTM GCS 사용사례
+
+- https://youtu.be/Y_aUOWs_Wk8?t=62
+
+
+
 
 
 ### KT 연락시 안내
