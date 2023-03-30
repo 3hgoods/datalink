@@ -1,6 +1,9 @@
 ### 용어 설명
 - http://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=172041-2
 
+### 시장동향
+- https://ssl.pstatic.net/imgstock/upload/research/industry/1625713765715.pdf
+
 
 ### 안전사고에 활용
 
