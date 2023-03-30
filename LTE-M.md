@@ -10,6 +10,13 @@
 - https://www.youtube.com/watch?v=G_H9BvmPzvc
 
 
+### 과거 라우터 제공사 정보
+- https://www.samyungenc.com/kor/view.do?no=83&prdSeq=35&pgMode=show
+- http://www.tsiot.co.kr/
+
+
+
+
 ### 해양기술드론 회사의 KT UTM GCS 사용사례
 
 - https://www.youtube.com/watch?v=0UqMSfgE_Js
@@ -20,6 +27,9 @@
 ### 이용약관
 
 - https://corp.kt.com/attach/board/BS00000004/10610/[%EB%B3%B4%EC%95%88%ED%95%B4%EC%A0%9C]%EC%84%A0%EB%B0%95%EB%AC%B4%EC%84%A0%ED%86%B5%EC%8B%A0+%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80_20230119.pdf
+
+- 배가 아니면 상용망 사용? 30km
+- https://www.etnews.com/20181224000143
 
 
 
@@ -39,7 +49,15 @@
 ```
 
 
+### KT 이외 서비스 제공업체
+- lg https://lgrouter.co.kr/?&bmode=view&idx=1964268&t=board
 
+
+
+
+
+
+### 무선국 위치 정보 조사
 
 - 무선국 확인 https://spectrummap.kr/
 - 700Mhz 안전용 공공이용 주파수는 빠져 있음  (061-350-1467/3) --> 
