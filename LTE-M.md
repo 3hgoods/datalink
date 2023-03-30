@@ -1,3 +1,8 @@
+### 용어 설명
+- http://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=172041-2
+
+
+
 
 ### KT 연락시 안내
 
