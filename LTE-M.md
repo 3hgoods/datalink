@@ -14,6 +14,12 @@
 - https://youtu.be/Y_aUOWs_Wk8?t=62
 
 
+### 이용약관
+
+- https://corp.kt.com/attach/board/BS00000004/10610/[%EB%B3%B4%EC%95%88%ED%95%B4%EC%A0%9C]%EC%84%A0%EB%B0%95%EB%AC%B4%EC%84%A0%ED%86%B5%EC%8B%A0+%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80_20230119.pdf
+
+
+
 
 
 
