@@ -9,6 +9,8 @@
 
 ### 해양기술드론 회사의 KT UTM GCS 사용사례
 
+- https://www.youtube.com/watch?v=0UqMSfgE_Js
+
 - https://youtu.be/Y_aUOWs_Wk8?t=62
 
 
