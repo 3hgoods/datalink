@@ -36,3 +36,9 @@ https://www.crms.go.kr/lay1/S1T133C143/contents.do
 
 ### LTE 상용망 활용
 - https://koreascience.kr/article/JAKO201905260915442.pdf
+
+###ROLA 사용
+- https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO202000029751&dbt=TRKO&rn=
+
+
+
