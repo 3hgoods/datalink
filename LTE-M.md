@@ -8,6 +8,8 @@
 ### 안전사고에 활용
 
 - https://www.youtube.com/watch?v=G_H9BvmPzvc
+- 인터넷 서비스는 별도인듯 http://www.isusanin.com/news/articleView.html?idxno=35851
+
 
 
 ### 과거 라우터 제공사 정보
