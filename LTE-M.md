@@ -30,3 +30,9 @@ https://www.crms.go.kr/lay1/S1T133C143/contents.do
 관건은 공공위치정보를 개인기업에게 알려주는게 가능할지 여부
 --> 반론으로 전파세상 정보는 공공이용주파수 빼고 공개되어 있다고 하고
 드론의이슈를 전달함.
+
+
+
+
+### LTE 상용망 활용
+- https://koreascience.kr/article/JAKO201905260915442.pdf
